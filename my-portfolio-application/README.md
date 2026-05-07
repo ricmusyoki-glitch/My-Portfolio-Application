@@ -1,18 +1,58 @@
-# React + Vite
+# Ric's Portfolio Showcase App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Overview
 
-Currently, two official plugins are available:
+This is a React Single Page Application (SPA) that allows users to add and display personal projects. The application demonstrates core React concepts such as components, props, state management, event handling, and responsive design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
 
-## React Compiler
+- Add new projects
+- Display project cards dynamically
+- Form validation
+- Responsive user interface
+- Component-based style
+- Styled using Tailwind CSS
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+## Technologies Used
 
-Note: This will impact Vite dev & build performances.
+- React
+- Vite
+- Tailwind CSS 
+- JavaScript
+- HTML
 
-## Expanding the ESLint configuration
+## Installation Instructions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clone the repository
+- Navigate into the project folder
+- Install dependencies
+- Start the development server
+- Open the localhost link shown in the terminal
+
+## React Concepts Demonstrated
+
+- Functional Components
+- Props
+- useState Hook 
+- Event Handling
+- Controlled Inputs
+- Conditional Logic
+- Component Hierarchy
+
+## Known Limitations
+
+- Projects are not permanently stored
+- No backend/database integration
+- Data resets when the page refreshes
+
+## Future Improvements
+
+- Add delete functionality
+- Add edit functionality
+- Connect to a backend database
+- Add project images
+- Add dark mode
+
+## Author
+
+Created by Ric Musyoki 
