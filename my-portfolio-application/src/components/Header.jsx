@@ -2,7 +2,7 @@ const Header = () => {
   return (
     <header className="bg-gray-600 text-white p-6 text-center">
       <h1 className="text-3xl font-bold">
-        Personal Project Showcase App
+        Ric's Portfolio project showcase app
       </h1>
     </header>
   )
