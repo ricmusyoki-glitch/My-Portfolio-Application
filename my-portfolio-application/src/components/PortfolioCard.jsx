@@ -23,4 +23,4 @@ const PortfolioCard = ({
   )
 }
 
-export default PortfolioCard
+export default PortfolioCard 
